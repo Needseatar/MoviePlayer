@@ -318,6 +318,7 @@
 				TargetAttributes = {
 					FCCA718D1A454AD7007FC75F = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 73TYTDH56Y;
 					};
 					FCCA71A61A454AD7007FC75F = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -511,6 +512,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 73TYTDH56Y;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/AudioQueueServices/FreeStreamerMobile-Prefix.pch";
@@ -530,6 +532,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 73TYTDH56Y;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/AudioQueueServices/FreeStreamerMobile-Prefix.pch";
