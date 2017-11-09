@@ -145,7 +145,7 @@
     if ([keyPath isEqualToString:@"status"]) {
         AVPlayerStatus status= [[change objectForKey:@"new"] intValue];
         if(status==AVPlayerStatusReadyToPlay){
-//            NSLog(@"正在播放...，视频总长度:%.2f",CMTimeGetSeconds(playerItem.duration));
+            NSLog(@"正在播放...，视频总长度:%.2f",CMTimeGetSeconds(playerItem.duration));
             NSLog(@"正在播放.....，视频总长度:%.2f",CMTimeGetSeconds(playerItem.duration));
         }
     }else if([keyPath isEqualToString:@"loadedTimeRanges"]){
