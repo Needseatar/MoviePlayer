@@ -27,24 +27,6 @@
 
 <div id="container">
     <a class="minyx" href="http://www.cnblogs.com/">代码改变世界</a>
-    <ul id="topMnu">
-        <!-- 统计数据 -->
-        <li>
-            
-                <div id="blog_stats">
-Posts - 79, 
-Articles - 0, 
-Comments - 1669
-<!----></div>
-            
-        </li>
-        <!-- 这边可以增加一些链接 -->
-        <!-- 博客园 -->
-        <li><a href="http://www.cnblogs.com/">Cnblogs</a></li>
-        <!-- 管理 -->
-        <li id="topMnu-dashboard">
-            <a id="lnkDashboard" href="http://www.cnblogs.com/kenshincui/admin/EditPosts.aspx">Dashboard</a></li>
-        <li>
             <a id="lnkLogin" href="http://passport.cnblogs.com/login.aspx?ReturnUrl=http://www.cnblogs.com/kenshincui/p/4186022.html">Login</a></li>
     </ul>
 
